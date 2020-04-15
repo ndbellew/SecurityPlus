@@ -77,6 +77,30 @@
       - Develop scenarios that can help you evaluate how to deal with these types of risks if they occur.
       - Create a plan to deal with risks that could happen to an OS, server, or application in certain environments
     - **Risks that Need Addressing**
-      - provides reality check on which risks are real and which are unlikely.
+      - Provides reality check on which risks are real and which are unlikely.
       -
     - **Coordination with BIA**
+      - Business Impact Analysis
+#### Computing Risk Assessment
+  - ensure prioritization.
+  - Not everything should be weighed evenly, because some events have a greater likelihood of happening.
+#### Risk Calculations
+  - SLE x ARO = ALE
+  - Calculate ALE to ensure the cost of a fix is within company standards.
+  - Key to any risk assessment is identifying assets and threats.
+#### Quantitative vs. Qualitative Risk Assessment
+  - Quantitative: Cost-based and objective
+    - does the damage effect productivity
+  - Qualitative: opinion-based and subjective
+    - does the damage affect company politics.
+  - SLE, ARO, and ALE are apart of Quantitative
+#### Risk Measurements
+  - Service Level Agreement (SLA)
+  - Key terms:
+    - likelihood
+    - Threat Vectors
+    - Mean Time Betwen Failures
+    - Mean time to Failure
+    - Mean Time to Restore
+    - Recovery Time Objective
+    - Recovery Point Objective
